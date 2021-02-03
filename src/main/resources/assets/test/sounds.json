@@ -1,0 +1,6 @@
+{
+    "diggy": {
+        "sounds": [{"name": "test:diggy_diggy_hole", "stream": true}]
+    }
+
+}
